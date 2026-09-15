@@ -25,15 +25,18 @@ For each component include a link to its product page, quantity, price, and a de
 
 ## Teammates and Responsibilities
 
-### Name 1
+### Alan Martinez Beato
 Each name should include a brief one paragraph descriptions of the teammates primary responsibilities. 
 
-### Name 2     
-...
+### Fei Ji     
+- CAD Design
+- 
 
 ### Mary Minnella
 ...
 
+### Kingdom Falade
+...
 ## Milestones
 
 List milestones and target dates here.
