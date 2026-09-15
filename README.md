@@ -31,7 +31,7 @@ Each name should include a brief one paragraph descriptions of the teammates pri
 ### Name 2     
 ...
 
-### Name 3
+### Mary Minnella
 ...
 
 ## Milestones
