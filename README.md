@@ -15,9 +15,9 @@ Alan's job
 Here you should include a detailed explanation of how your software will work. This should include the programming language(s) you will be using, any libraries, what IDE(s) you will be working with, your approach for testing your software, and how you will be using the inputs from your hardware to complete your task.
 
 ### Hardware Plan
-LiPo Battery 
-Arduino Nano 33 BLE 
-Geared Motor (50 to 1), 20 to 1 Ratio, Magnetic encoders 
+- LiPo Battery 
+- Arduino Nano 33 BLE 
+- Geared Motor (50 to 1), 20 to 1 Ratio, Magnetic encoders 
 
 This should be a more detailed explanation of how your hardware will work. This should include the electrical requirements of all the individual components of your system and how those requirements will be managed. This should also include a detailed explanation of the hardware components of your system and how they will interact with each other. This should include a detailed explanation of the sensors you will be using, how they work, and how you will be using them to complete your task. This should also include specifications of your components, including the voltage/current ranges they support as well as their physical dimensions (when applicable). 
 
