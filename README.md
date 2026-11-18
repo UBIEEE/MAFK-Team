@@ -38,7 +38,8 @@ For each component include a link to its product page, quantity, price, and a de
 ### Fei Ji     
 - CAD Design (Not Started)
 - Schematic for wiring (Basic DONE 11/18/2026 Waiting to be Approved)
-- Bill of Material currently named parts(Basic DONE 11/18/2026 Waiting to be Approved)
+- Bill of Material (Basic DONE 11/18/2026 Waiting to be Approved)
+- Parts is a rought version of BOM (Done 11/10/2026)
 - 
 ### Mary Minnella
 ...
