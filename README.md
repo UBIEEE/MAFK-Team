@@ -38,7 +38,7 @@ For each component include a link to its product page, quantity, price, and a de
 ### Fei Ji     
 - CAD Design (Not Started)
 - Schematic for wiring (Basic DONE 11/18/2026 Waiting to be Approved)
-- Bill of Material (Basic DONE 11/18/2026 Waiting to be Approved)
+- Bill of Material currently named parts(Basic DONE 11/18/2026 Waiting to be Approved)
 - 
 ### Mary Minnella
 ...
@@ -46,5 +46,5 @@ For each component include a link to its product page, quantity, price, and a de
 ### Kingdom Falade
 ...
 ## Milestones
-Started research (9/16/2026) BOM (11/10/2026) Schematic Basic (11/18/2026)
+Started research (9/16/2026) BOM/parts (11/10/2026) Schematic Basic (11/18/2026)
 
