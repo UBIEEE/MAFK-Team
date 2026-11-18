@@ -9,10 +9,15 @@ The goal of our project is to design a working micromouse by the end of the fall
 The overview should be a general description of your project. This should be a high level overview of your design decisions and how you will implement them, including detailed information on how you will handle difficulties such as software and hardware integration. This should also contain information on the hardware including references to the electrical requirements of all the individual components of your system and how those requirements will be managed. You should also discuss what kind of software you will be running, undergo a brief analysis to show you have the compute power to run your software, and discuss how the software will use the inputs your hardware gives it to complete its task. 
 
 ### Software Plan
+Alan's job
+- Code in C++/whatever arduino codes in.
 
 Here you should include a detailed explanation of how your software will work. This should include the programming language(s) you will be using, any libraries, what IDE(s) you will be working with, your approach for testing your software, and how you will be using the inputs from your hardware to complete your task.
 
 ### Hardware Plan
+LiPo Battery 
+Arduino Nano 33 BLE 
+Geared Motor (50 to 1), 20 to 1 Ratio, Magnetic encoders 
 
 This should be a more detailed explanation of how your hardware will work. This should include the electrical requirements of all the individual components of your system and how those requirements will be managed. This should also include a detailed explanation of the hardware components of your system and how they will interact with each other. This should include a detailed explanation of the sensors you will be using, how they work, and how you will be using them to complete your task. This should also include specifications of your components, including the voltage/current ranges they support as well as their physical dimensions (when applicable). 
 
@@ -28,18 +33,18 @@ For each component include a link to its product page, quantity, price, and a de
 ## Teammates and Responsibilities
 
 ### Alan Martinez Beato
-Each name should include a brief one paragraph descriptions of the teammates primary responsibilities. 
+- Coding (Simulated and worked)
 
 ### Fei Ji     
-- CAD Design
+- CAD Design (Not Started)
+- Schematic for wiring (Basic DONE 11/18/2026 Waiting to be Approved)
+- Bill of Material (Basic DONE 11/18/2026 Waiting to be Approved)
 - 
-
 ### Mary Minnella
 ...
 
 ### Kingdom Falade
 ...
 ## Milestones
-
-List milestones and target dates here.
+Started research (9/16/2026) BOM (11/10/2026) Schematic Basic (11/18/2026)
 
