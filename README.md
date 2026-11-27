@@ -20,7 +20,7 @@ Here you should include a detailed explanation of how your software will work. T
 - Arduino Nano 33 BLE 
 - Geared Motor (50 to 1), Magnetic encoders 
 
-Link to Onshape: https://cad.onshape.com/documents/06909bfff620b3c3d2dee830/w/57c24b35a9e456363b618313/e/436d04c3566f2ca1c58a2d9b?renderMode=0&uiState=6b0923d61d2da02ab57e52f1
+Link to Onshape Hardware Design: https://cad.onshape.com/documents/06909bfff620b3c3d2dee830/w/57c24b35a9e456363b618313/e/436d04c3566f2ca1c58a2d9b?renderMode=0&uiState=6b0923d61d2da02ab57e52f1
 
 This should be a more detailed explanation of how your hardware will work. This should include the electrical requirements of all the individual components of your system and how those requirements will be managed. This should also include a detailed explanation of the hardware components of your system and how they will interact with each other. This should include a detailed explanation of the sensors you will be using, how they work, and how you will be using them to complete your task. This should also include specifications of your components, including the voltage/current ranges they support as well as their physical dimensions (when applicable). 
 
