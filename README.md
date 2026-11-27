@@ -50,5 +50,4 @@ For each component include a link to its product page, quantity, price, and a de
 ### Kingdom Falade
 ...
 ## Milestones
-Started research (9/16/2026) BOM/parts (11/10/2026) Schematic Basic (11/18/2026)
-
+Started research (9/16/2026), BOM/parts (11/10/2026), Schematic Basic (11/18/2026), Upadted and Final (11/25/2026), CAD design/frame Idea (11/27/2026)
