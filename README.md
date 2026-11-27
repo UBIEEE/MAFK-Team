@@ -3,6 +3,7 @@
 On GitHub, create a new repository based on this template. Your repository should hold all design files, code, and documentation for your MicroMouse robot.
 
 ## Overview
+<img width="1006" height="626" alt="Screenshot 2026-11-27 012637" src="https://github.com/user-attachments/assets/e99925ae-fb04-4636-b5e2-d2a9aedb2d7f" />
 
 The goal of our project is to design a working micromouse by the end of the fall 2026 semester or if not the spring of 2027.
 
